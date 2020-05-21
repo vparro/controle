@@ -11,4 +11,6 @@ probabilidade condicional de eventos discretos - discussão sobre dimensionalida
 
 <img src="https://automationforum.co/wp-content/uploads/2019/01/feedback.png"> 
 
-<a href="https://github.com/vparro/controle/tree/master/1%20-%20Frequencia">  <img src="https://automationforum.co/wp-content/uploads/2019/01/feedback.png">    <\a>
+<a href="https://github.com/vparro/controle/tree/master/1%20-%20Frequencia">  <img src="https://automationforum.co/wp-content/uploads/2019/01/feedback.png" width=60 height=40 >    </a>
+
+
