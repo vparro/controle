@@ -6,6 +6,7 @@ function [] = SegmentaBode(Gma,Wmin,Wmax)
 
 C = {'k','g','c','y','b'}; %
 M = {'o','diamond','square','*','+'}; % 
+m = 1;
 
 %% Determina o diagrama de Bode da função completa
 
